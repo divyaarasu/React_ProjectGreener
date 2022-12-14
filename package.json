@@ -20,7 +20,7 @@
     "consolidate": "^0.15.1",
     "cors": "^2.8.5",
     "ejs": "^3.0.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "font-awesome": "^4.7.0",
     "google-maps-react": "^2.0.2",
     "is-empty": "^1.2.0",
